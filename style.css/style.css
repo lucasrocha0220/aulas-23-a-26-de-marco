@@ -7,3 +7,18 @@
     padding: 0;
     box-sizing: 0;
 }
+:root {
+    /* Cores */
+    --bg-dark: #0F172A;
+    --bg-card: #1E293B;
+    --text-primary: #F8FAFC;
+    --text-secondary: #CBD5E1;
+    --text-muted: #94A3B8;
+    --accent-orange: #EA580C;
+    --accent-amber: #F59E0B;
+    --border-color: #334155;
+    
+    /* Tipografia */
+    --font-display: 'Poppins', sans-serif;
+    --font-body: 'Inter', sans-serif;
+    
